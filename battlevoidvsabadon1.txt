@@ -1,0 +1,9 @@
+=== DUEL: Abadon vs SpiritVoid ===
+SpiritVoid → Abadon : 53 dmg | Abadon HP=77
+Abadon → SpiritVoid : 20 dmg | SpiritVoid HP=75
+SpiritVoid → Abadon : 29 dmg | Abadon HP=48
+Abadon → SpiritVoid : 20 dmg | SpiritVoid HP=55
+SpiritVoid → Abadon : 23 dmg | Abadon HP=25
+Abadon → SpiritVoid : 31 dmg | SpiritVoid HP=24
+SpiritVoid → Abadon : 25 dmg | Abadon HP=0
+Переможець: SpiritVoid
